@@ -100,4 +100,17 @@ box-shadow: 5px 5px 15px -5px rgb(0, 0, 0, 0.3);
   .center_div {
     width: 90%;
   }
+     .main_div {
+    width: 90%;
+  }
+}
+
+
+@media (max-width: 300px) {
+  .center_div {
+    width: 100%;
+  }
+    .main_div {
+    width: 100%;
+  }
 }
